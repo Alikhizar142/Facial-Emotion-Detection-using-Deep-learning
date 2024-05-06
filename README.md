@@ -1,4 +1,3 @@
-
 ### EmoVision: Real-time Facial Emotion Analysis 🎭🔍
 
 #### Description:
@@ -27,9 +26,19 @@ EmoVision is an innovative project showcasing real-time facial emotion analysis 
 
 #### 📝 How to Use:
 
-1. **Clone:** Clone the repository to your local machine.
-2. **Setup:** Install required dependencies specified in the README.
-3. **Run:** Execute provided scripts to experience real-time emotion analysis.
+1. **Clone the Repository:**
+   ```
+   git clone https://github.com/Alikhiza142/Facial-Emotion-Detection-using-Deep-learning.git
+   ```
+   
+2. **Setup:**
+   - Navigate to the cloned directory.
+   
+3. **Run:**
+   - Execute the provided script to experience real-time emotion analysis:
+     ```
+     python videotester.py
+     ```
 
 #### 🤝 Contributions:
 
